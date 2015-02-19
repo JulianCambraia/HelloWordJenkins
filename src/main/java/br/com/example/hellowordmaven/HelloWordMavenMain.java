@@ -8,7 +8,7 @@ public class HelloWordMavenMain {
 
 	public static void main(String[] args) {
 		Logger logger = (Logger) LoggerFactory.getLogger(HelloWordMavenMain.class);
-		logger.info("Hello Word Maven!");
+		logger.info("Hello Word Maven Jenkins!");
 
 	}
 
